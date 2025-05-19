@@ -12,7 +12,7 @@ This document outlines the AI Editor Rules Standard (AIRS), a company-agnostic s
 
 This standard draws inspiration from systems like Cursor's Rules and VS Code's Instructions/Prompt Files.
 
-The official version of the AI Editor Rules Standard (AIRS) is published at [https://useairs.dev](https://useairs.dev). This document serves as its primary specification. We encourage community participation for its evolution; suggestions and improvements can be submitted via pull requests to the repository hosting this standard.
+The official version of the AI Editor Rules Standard (AIRS) is published at [https://www.useairs.dev](https://www.useairs.dev). This document serves as its primary specification. We encourage community participation for its evolution; suggestions and improvements can be submitted via pull requests to the repository hosting this standard.
 
 ## 2\. Core Concepts
 
@@ -270,7 +270,7 @@ The goal is for a rule file written according to this standard to be largely und
 
 The AI Editor Rules Standard (AIRS) is an open standard, and community contributions are highly encouraged to help it evolve and improve.
 
-*   **Official Publication**: The canonical version of this standard is hosted at [https://useairs.dev](https://useairs.dev).
+*   **Official Publication**: The canonical version of this standard is hosted at [https://www.useairs.dev](https://www.useairs.dev).
 *   **Contributions**: Suggestions, improvements, and discussions are welcome. Please submit them as pull requests or issues to the GitHub repository where this standard is maintained: [https://github.com/nixoid/airs](https://github.com/nixoid/airs).
 
 ```typescript
