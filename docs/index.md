@@ -271,7 +271,7 @@ The goal is for a rule file written according to this standard to be largely und
 The AI Editor Rules Standard (AIRS) is an open standard, and community contributions are highly encouraged to help it evolve and improve.
 
 *   **Official Publication**: The canonical version of this standard is hosted at [https://useairs.dev](https://useairs.dev).
-*   **Contributions**: Suggestions, improvements, and discussions are welcome. Please submit them as pull requests or issues to the GitHub repository where this standard is maintained.
+*   **Contributions**: Suggestions, improvements, and discussions are welcome. Please submit them as pull requests or issues to the GitHub repository where this standard is maintained: [https://github.com/nixoid/airs](https://github.com/nixoid/airs).
 
 ```typescript
 // Example of a good component structure
