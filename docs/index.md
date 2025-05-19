@@ -10,9 +10,11 @@ version: 1.0.0
 
 This document outlines the AI Editor Rules Standard (AIRS), a company-agnostic standard for defining custom rules, instructions, and prompts for AI coding assistants and language models integrated into development environments. The goal is to foster interoperability, reusability, and clarity when guiding AI behavior across different tools and projects.
 
-This standard draws inspiration from systems like Cursor's Rules and VS Code's Instructions/Prompt Files.
+**Project Repository on GitHub: [https://github.com/nixoid/airs](https://github.com/nixoid/airs)**
 
 The official version of the AI Editor Rules Standard (AIRS) is published at [https://www.useairs.dev](https://www.useairs.dev). This document serves as its primary specification. We encourage community participation for its evolution; suggestions and improvements can be submitted via pull requests to the repository hosting this standard.
+
+This standard draws inspiration from systems like Cursor's Rules and VS Code's Instructions/Prompt Files.
 
 ## 2\. Core Concepts
 

@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: null
-description: A company-agnostic standard for defining custom rules, instructions, and prompts for AI coding assistants. 
+description: A company-agnostic standard for defining custom rules, instructions, and prompts for AI coding assistants.
+repository: nixoid/airs 
